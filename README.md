@@ -1,2 +1,2 @@
-# Atividades-The-Huxley
-Alguns exercícios resolvidos do The Huxley
+# Atividades Estrutura de Dados
+Alguns exercícios resolvidos da matéria de Estrutura de Dados no The Huxley
